@@ -1,4 +1,4 @@
-# Notes---Python---Automate-the-Boring-Stuff
+# Notes Python Automate-the-Boring-Stuff
 Personal notes taken from the video lessons that accompany the book.
 ## Motivation
 I am new to programing, and wanted to experiment/learn some Python. I had this weird idea of trying to use some data science methods to show quality assurance metrics and automate some tests. My search results kept pointing me to Python as the language to learn for these two exercises. After reading many articles, tutorials and watching a lot of video lessons, I decided to go all in with this book. I didn't know (at that time) that this book is free to read online https://automatetheboringstuff.com/ and also has accompanying video lessons https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW .
