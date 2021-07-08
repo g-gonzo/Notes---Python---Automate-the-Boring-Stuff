@@ -10,7 +10,7 @@ No real build to speak of, just some HTML pages.
 HTML 5 
  
 ## Screenshots
-
+![](automateboringstuff.png)
 
 ## Tech/framework used
 Anaconda, Python 3, Jupyter Notebooks 
